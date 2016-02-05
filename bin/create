@@ -1,0 +1,4 @@
+#!/bin/sh
+repo="${PWD##*/}"
+repo=${1:?}
+git init --bare "${HOME}/Dropbox/Git/${repo}.git"
