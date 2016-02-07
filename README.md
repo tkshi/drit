@@ -39,4 +39,4 @@ drit clone MyProject Project
 ## License
 The MIT License
 ## Author
-[@takashi_end0u](https://twitter.com/takashi_end0u)
+[@etkshi](https://twitter.com/etkshi)
